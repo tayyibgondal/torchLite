@@ -1,4 +1,4 @@
-# Neural Network Library
+# torchLite
 
 This is a basic neural network library that provides functionality for creating and training neural networks. The library includes a scalar-valued autograd engine, which allows for automatic computation of gradients using the chain rule.
 
